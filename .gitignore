@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.vs/
+.vscode/
+Debug/
+Release/
+build/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+*.aux
+*.synctex.gz
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+
+# Local organization records and historical archives
+_organization/
+_local_archive/
